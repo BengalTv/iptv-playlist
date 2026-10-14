@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 group-title="Bangladesh",Somoy TV
+https://example.com/somoy.m3u8
+#EXTINF:-1 group-title="Bangladesh",ATN Bangla
+https://example.com/atn.m3u8
+#EXTINF:-1 group-title="Bangladesh",Channel i
+https://example.com/channel-i.m3u8
+#EXTINF:-1 group-title="Bangladesh",NTV
+https://example.com/ntv.m3u8
+#EXTINF:-1 group-title="Bangladesh",Independent TV
+https://example.com/independent.m3u8
